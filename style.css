@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    font-family: 'inter';
+}
+
+#menusuperior{
+    background-color: #303030;
+    color: #ffff;
+    padding: 150px;
+}
+
+#titulo-menusuperior{
+    font-size: 50px; 
+}
+
+#outra-frase{
+    font-size: 20px;
+}
+
+#mostraexp-dos-caras{
+    display: grid;
+    grid-auto-flow: column;
+    justify-items: center;
+    padding: 100px;
+    background-color: #cacaca;
+}
+
+#menu-informacao{
+    display: grid;
+    grid-auto-flow: column;
+    padding: 75px;
+}
+
+#textos-informacao{
+    margin-top: 200px;
+}
+
+#titulo-menuinformacao{
+    margin: 30px;
+    font-size: 35px;
+}
+
+#paragrafo-menuinrfomacao{
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+#formulario{
+    background-color: #303030;
+    color: #ffff;
+}
