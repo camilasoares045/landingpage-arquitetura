@@ -32,4 +32,6 @@ Você deverá construi-la com base no layout do figma. Comece compreendendo toda
 estrutura da interface, e abra seu editor de código VSCode para iniciar o
 desenvolvimento da sua página web.
 
+Link do site: https://aquitetura-landingpage.netlify.app/ 
+Link da planilha de registro informação: 
 
