@@ -33,5 +33,5 @@ estrutura da interface, e abra seu editor de código VSCode para iniciar o
 desenvolvimento da sua página web.
 
 Link do site: https://aquitetura-landingpage.netlify.app/ 
-Link da planilha de registro informação: 
+Link da planilha de registro informação: https://docs.google.com/spreadsheets/d/1wpIfxdK8EJ77_t4HAIcMVZJuFMQ5PQfpbL237jyUDxY/edit?usp=drive_link
 
